@@ -1,5 +1,7 @@
-##### Linguagem usada
-- Javascript
+<p align="center">
+  <img src="https://github.com/Nathan-Andrade/Proffy/blob/master/github/gifDaAplica%C3%A7%C3%A3oWithResponsive.gif?raw=true" >
+</p>
+
 
 ##### Bibliotecas / Tecnologias instaladas
 - Styled-Components
