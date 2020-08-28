@@ -1,3 +1,6 @@
+##### Linguagem usada
+- Javascript
+
 ##### Bibliotecas / Tecnologias instaladas
 - Styled-Components
 - react-icons
