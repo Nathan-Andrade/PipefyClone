@@ -2,6 +2,7 @@
 - Styled-Components
 - react-icons
 - react-dnd-html5-backend react-dnd
+- Immer
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
